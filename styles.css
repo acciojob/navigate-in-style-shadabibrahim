@@ -4,7 +4,8 @@
 	padding:10px;		
 }
 .container  li{
-	display:inline;
+	/* display:inline; */
+	display:flex;
 	margin-right:1rem;
 	list-style:none;
 	
