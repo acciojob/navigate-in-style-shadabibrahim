@@ -9,6 +9,6 @@ list.forEach((item)=>{
 	
 })
 ul.appendChild(li);
-ul.setAttribute("className","container  li")
+
 nav.appendChild(ul);
 
